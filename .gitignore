@@ -1,0 +1,6 @@
+__pycache__/*
+source/__pycache__/*
+*.psproj
+*.zip
+*.ini
+*.py3
